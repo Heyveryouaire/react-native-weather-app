@@ -1,0 +1,18 @@
+{
+  "name": "first",
+  "displayName": "first",
+  "expo": {
+    "name": "first",
+    "slug": "first",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "androidNavigationBar": {
+      "visible": "immersive"
+    },
+    "android": {
+      "package": "fr.mat.myweatherapp"
+    }
+  }
+}
